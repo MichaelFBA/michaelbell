@@ -1,0 +1,25 @@
+{
+  "name": "michaelbell",
+  "version": "1.0.0",
+  "description": "Michael Bell",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^3.2.3",
+    "teeny-cli": "0.1.0-beta"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "teeny develop",
+    "build": "teeny build && gh-pages -d public/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelFBA/michaelbell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelFBA/michaelbell/issues"
+  },
+  "homepage": "https://github.com/MichaelFBA/michaelbell#readme"
+}

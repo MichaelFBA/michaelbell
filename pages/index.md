@@ -6,11 +6,7 @@
 - Educate and be educated
 - For the love of money is the root of all evil
 
-### Recent
+### Thoughts
 [Less is more. Family](/blog/family)
 
-### Quotes
-
-
-### Connect
 
